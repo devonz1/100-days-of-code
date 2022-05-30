@@ -8,3 +8,12 @@ learned about background-size property.
 
 Thoughts:
  learned how to add a image to the entire webpage thanks w3 schools.
+
+
+Day 2  05/29/22
+
+Progress : was able to change some fonts on my menu and learned some
+new css margin properties.
+
+Thoughts:
+menu is coming along adjusted some detail in the menu.
