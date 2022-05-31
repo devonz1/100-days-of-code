@@ -17,3 +17,12 @@ new css margin properties.
 
 Thoughts:
 menu is coming along adjusted some detail in the menu.
+
+Day 3 05/30/22
+
+Progress : Finished the menu using html and css external style sheet. 
+
+Thoughts: Google was definitely helpful in this learned a lot of new
+css properties I didn't even know existed as well as new selectors like type
+selector didn't even realize that's a actual name of a selector.
+
