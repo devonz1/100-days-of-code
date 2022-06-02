@@ -33,3 +33,11 @@ Progress : Started the process on building a restaurant survey form.
 Thoughts: So far have the background image added and I finally learned how to 
 display my background image from my computer onto the webpage a new gem I discovered.
 Tahnks Youtube I am so grateful for you .
+
+Day 5   06/2/22
+
+Progress : Was able to add a Few Items to My survey Form Looking to complete it soon.
+
+Thoughts: Ive realized I need a little bit more practice than I thought 
+with building Forms but Im getting there with Each Day Im learning more and more.
+
