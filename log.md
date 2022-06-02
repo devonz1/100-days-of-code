@@ -34,7 +34,7 @@ Thoughts: So far have the background image added and I finally learned how to
 display my background image from my computer onto the webpage a new gem I discovered.
 Tahnks Youtube I am so grateful for you .
 
-Day 5   06/2/22
+Day 5   06/1/22
 
 Progress : Was able to add a Few Items to My survey Form Looking to complete it soon.
 
