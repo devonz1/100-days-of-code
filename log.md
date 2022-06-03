@@ -41,3 +41,13 @@ Progress : Was able to add a Few Items to My survey Form Looking to complete it 
 Thoughts: Ive realized I need a little bit more practice than I thought 
 with building Forms but Im getting there with Each Day Im learning more and more.
 
+Day 6 06/02/22
+
+Progress : Finally Finished the Restaurant survey and I feel Great about
+it.
+
+Thoughts: Definitely learned a lot about forms and 
+more css properties and some cool things you can do with
+a simpe survey form .
+
+
