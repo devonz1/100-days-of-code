@@ -50,4 +50,11 @@ Thoughts: Definitely learned a lot about forms and
 more css properties and some cool things you can do with
 a simpe survey form .
 
+Day 7 06/04/22
+
+Progress: Started Working on freecodecamp Bootstrap Curriculum creating
+a lion Photo App.
+
+Thoughts: I really like the responsiveness of bootsrap and
+the ease at which you can design your webpage .
 
