@@ -58,3 +58,13 @@ a lion Photo App.
 Thoughts: I really like the responsiveness of bootsrap and
 the ease at which you can design your webpage .
 
+Day 8  06/05/22
+
+Progress: Added some bootsrap styles to the photo app and 
+changed up some of the buttons. Discovered awesome fonts today as well
+Definitely Going to be using that site on my next webpage
+
+Thoughts: I feel like Im getting better and better with each day.
+
+
+
