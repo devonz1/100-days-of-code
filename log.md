@@ -74,5 +74,11 @@ them functional.
 
 Thoughts : I think The form is coming together Pretty Well.
 
+Day: 11 06/09/22
 
+Progress: Completed my Registration Form.
+
+Thoughts : I realized from this freecodecamp form curriculum that
+there are a lot of elements and classes I was unaware of
+and I have a bit more learning to catch up on.
 
