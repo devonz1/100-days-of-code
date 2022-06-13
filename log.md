@@ -82,3 +82,17 @@ Thoughts : I realized from this freecodecamp form curriculum that
 there are a lot of elements and classes I was unaware of
 and I have a bit more learning to catch up on.
 
+Day 12 : 06/10/22
+
+Progress: Started working on css box model .
+
+Thoughts : Im not sure the purpose of the box model
+but im Push forward through the project.
+
+Day 13 06/12/22
+
+Progress : Finished the box model Project .
+
+Thoughts : I had to change up the colors a bit from the original
+project to make it my own plus it looks better with brighter colors 
+and it still looks like a rothko painting.
