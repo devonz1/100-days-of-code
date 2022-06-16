@@ -96,3 +96,24 @@ Progress : Finished the box model Project .
 Thoughts : I had to change up the colors a bit from the original
 project to make it my own plus it looks better with brighter colors 
 and it still looks like a rothko painting.
+
+Day 14 06/13/22
+
+Progress: Started the typogrophy lesson with Css
+building a nutrition label.
+
+
+Thoughts : For the first time in a while I actually got stuck on a 
+mistake off of 1 leeter being the wrong casing .
+
+
+Day 15 06/15/22
+
+Progress: 40% Done with the label.
+
+Thoughts: Img etting better at recognizing the syntax and its 
+starting to stick in my head everytime I do a new project
+the correct elements come to me much faster .
+
+
+
