@@ -111,9 +111,32 @@ Day 15 06/15/22
 
 Progress: 40% Done with the label.
 
-Thoughts: Img etting better at recognizing the syntax and its 
+Thoughts: Im  getting better at recognizing the syntax and its 
 starting to stick in my head everytime I do a new project
 the correct elements come to me much faster .
+
+Day 16 06/16/22
+
+Progress: 69% percent done with  the label .
+
+Thoughts:
+
+I feel like I wanted to finish the label today but 
+due to getting a little stuck on a few items caused somewhat
+of a delay but its helping me learn better so its fine.
+
+Day 17 06/17/22
+
+Progress: 100% finally Complete the nutrition label 
+Now just adding my own style to it.
+
+Thoughts:I feel like for some reason this project based 
+learning is more enjoyable and it helps
+me figure out things faster than just wacthing videos and
+I can also getter better at problem solving the  code.
+
+
+
 
 
 
