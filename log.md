@@ -135,6 +135,31 @@ learning is more enjoyable and it helps
 me figure out things faster than just wacthing videos and
 I can also getter better at problem solving the  code.
 
+Day 18 06/18/22
+
+Progress: Decided to add some Color to the Nutritional 
+label I created to make it my own form freecodecamp
+Got inspiration from a image I saw on google.
+
+Thoughts: Started adding colors and I feel like the 
+easisest part is making the classes in my css file 
+for the colors but the challenge was placing every 
+class within the correct element.
+
+Day 19 06/19/22
+
+Progress: I finished adding all the Colors on 
+the Nutritional Label and it looks a little more 
+presentable but not up to what I wanted it but 
+Im gonna keep going to push better for my next project.
+
+Thoughts: I really Enjoyed the process of
+adding the colors and seeing it come alive from a simple 
+white plain nutritional label to a  eye catching 
+colorful label.
+
+
+
 
 
 
