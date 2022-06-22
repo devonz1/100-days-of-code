@@ -159,7 +159,16 @@ white plain nutritional label to a  eye catching
 colorful label.
 
 
+Day 20 06/21/22
 
+Progress: Satrted the accessibility Quiz 
+project Looking forward to See how eveything turns out 
+at the end .
+
+Thoughts: I think this project will really help get me a better understanding of 
+all the elemnents in the html header that helps 
+with mobile view and view on diffent devices and why 
+accessibility is so important to a webpage.
 
 
 
