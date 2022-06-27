@@ -208,6 +208,13 @@ working hard to complete this project.
 
 Day 24 06/26/22
 
+Progress: 
+60% Done and Well along the way had a few more bumps
+but im sailing ahead .
+
+Thoughts:
+Trying to make sure I stay focused 
+and keep going .
 
 
 
