@@ -171,6 +171,51 @@ with mobile view and view on diffent devices and why
 accessibility is so important to a webpage.
 
 
+Day 21 06/22/22
+
+Progress: Still pushing through the accessibilty quiz project on 
+freecodecamp html & css.
+
+Thoughts: Its a little more challenging then the others but
+thats exactly what I need to stretch my skills and
+become better at programming.
+
+
+Day 22 06/23/22
+
+Progress:
+30% through the accessibilty project and its teaching me
+a lot of the different complexity of a form of
+this type .
+
+
+Thoughts: I think this Quiz is definitely 
+something Ive never done but It really does 
+help strengthen your problem solving skills
+this project has definitely done that the most for me.
+
+
+Day 23 06/24/22
+
+Progress: 
+40% now throught the Quiz project still pushing through.
+
+Thoughts: can't wait to see what it looks like at the end 
+Im gonna be stoked once I finish because Im definetly 
+working hard to complete this project.
+
+
+
+Day 24 06/26/22
+
+
+
+
+
+
+
+
+
 
 
 
