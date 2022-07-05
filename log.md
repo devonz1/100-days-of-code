@@ -217,6 +217,55 @@ Trying to make sure I stay focused
 and keep going .
 
 
+Day 25  06/27/22 
+
+Progress: Started Working on Javascript aglorithums and 
+an data structures on freecodecamp.
+
+Thoughts: I feel like javascript is a little more 
+challenging due to the different more specifics
+of writing certain syntax .
+
+
+Day 26 06/28/22
+
+Progress: Javascript on Frecodecamp 
+
+Thoughts: I am progressing through the curriculum 
+at a steady pace to make sure I learn everything
+correctly and understand it.
+
+
+Day 27 06/30/22
+
+Progress: Continuing My Path Journey With Javascript
+
+Thoughts : Its a good amount of information on freecodecamp
+I really like how they explain concepts and theres
+always a video on youtube that you can find to help
+better explain it.
+
+
+Day 28 07/01/22
+
+
+Progress: Javascript 
+
+
+Thoughts : Im finding that as I go through the curriculum 
+when I get stuck freecodecamp has a great community chat that
+is willing to help which is really great because 
+sometimes that definetly helps push me forward.
+
+
+Day 29:  07/03/22
+
+Progress: Javascript curriculum still pushing ahead
+
+Thoughts : 
+
+
+
 
 
 
