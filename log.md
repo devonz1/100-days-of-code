@@ -264,6 +264,14 @@ Progress: Javascript curriculum still pushing ahead
 
 Thoughts : 
 
+Day 30: 07/05/22
+
+Progress : JAvascript Freecodecamp about 34% complete 
+
+Thoughts : feeling pretty good Just had a
+few bumps in the road with some concatenation but
+I found he solution and pushed forward.
+
 
 
 
