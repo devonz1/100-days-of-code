@@ -272,6 +272,30 @@ Thoughts : feeling pretty good Just had a
 few bumps in the road with some concatenation but
 I found he solution and pushed forward.
 
+Day 31: 07/06/22
+
+Progress: 40% through Javascript Curriculum
+
+Thoughts : Some concepts I feel I need more
+work on but still moving head.
+
+Day 32: 07/09/22
+
+Progress: Im at about 46% completion Now
+
+Thoughts : Working on functions with variables
+something new and somewhat of a deep thought
+task for me . some of the code I notice I
+have to really read through a few times 
+to make sure im on the right path.
+
+Day 33: 07/10/22  
+
+Progress : at 50% completion on freecodecamp javascript 
+
+Thoughts: I really want to take my time with
+this because sometimes I solve problems but
+unsure of how I did it .
 
 
 
