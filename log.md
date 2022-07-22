@@ -297,6 +297,38 @@ Thoughts: I really want to take my time with
 this because sometimes I solve problems but
 unsure of how I did it .
 
+Day 34 : 7/13/22
+
+Progress : more than halfway through the basic javascript 
+
+Thoughts:  Im feel pretty satisfied wiith my progress
+im getting through each problem a step at a time.
+
+
+Day 35 : 7/16/22
+
+Progress :  70% complete through javascript curriculum.
+
+
+Thoughts : Some problems Ive noticed are a bit more of a challenge than others
+but I always make sure I find the solution and keep
+pushing ahead Youtube and google is definetly very helpful.
+
+Day 36 : 07/17/22
+
+Progress: Steadily progressing to the finish line
+
+Thoughts : I feel like the problems witjin this curriculum 
+are really helping me develop my problem solving skills 
+because each problem is different and the soultion doesn't always 
+come to me right away.
+
+
+Day 37 : 07/19/22
+
+Progress : 
+
+
 
 
 
