@@ -329,6 +329,33 @@ Day 37 : 07/19/22
 Progress : 
 
 
+Day 38 07/21/22
+
+Progress : Still working through the Javascript data structures 
+
+
+Thoughts: I think im starting to get a better understanding
+of how algorithms work in javascript. I think in
+doing these problems and coming uo with solutions it 
+makes things a little clearer.
+
+Day 39 07/ 23/22
+
+Progress : Pass 80% complete
+
+Thoughts:
+ Im finding Some things are more challenging than others but Thats 
+ why theres Google and I think its been a great
+ tool for me in this curriculm Even though Idon't use
+ it for every problem just the ones Ive tried 
+ over and over a few times.
+
+
+Day 40 07/25/22
+
+Progress : 
+
+Thoughts:
 
 
 
