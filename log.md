@@ -353,7 +353,7 @@ Thoughts:
 
 Day 40 07/25/22
 
-Progress : 
+Progress : at 90%
 
 Thoughts:
 
