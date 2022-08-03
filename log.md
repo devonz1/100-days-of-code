@@ -355,7 +355,53 @@ Day 40 07/25/22
 
 Progress : at 90%
 
+Thoughts: Feeling Pretty Good about 
+My Progress.
+
+
+Day 41  07/27/22
+
+Progress : 92% Complete Javascript
+
+Thoughts : Learning algorithm have definitely been something
+Im not used to and Has been a bit of a learning
+curve  but I Know It will click wih enough Practice.
+
+
+Day 42  07/28/22
+
+Progress :   For loops Iteration on Freecodecamp Javascript
+
 Thoughts:
+Im so much better at for loops than I was 5 months ago 
+Im so glad I found a good resource at freecodecamp
+that really helped me better understand loops.
+
+
+Day 43  07/30/22
+
+  Progress : 93% on curriculum
+  
+  Thoughts : 
+  Learned how to Print out Random numbers . Which is 
+  pretty Cool . Its a milestone Im really 
+  grateful for it Shows How far Ive come and 
+  Im getting better at problem solving.
+  
+  
+  Day 44 08/2/22
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
 
 
 
